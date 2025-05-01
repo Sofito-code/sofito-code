@@ -5,8 +5,7 @@
 📍 Medellín, Colombia  
 📧 sofiavanegascordoba@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/sofia-vanegas-cordoba)  
-🌐 [itch.io](https://jfgomez.itch.io/ether-no)  
-📁 [Portafolio en GitHub](https://github.com/Sofito-code)  
+🌐 [itch.io](https://jfgomez.itch.io/ether-no)   
 
 ---
 
