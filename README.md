@@ -38,7 +38,7 @@ Juego 2D de rol y fantasía con IA de enemigos y ataques personalizados.
 - Lenguajes: C#, Java, Python, JavaScript  
 - Motores de juego: **Unity** y aprendiendo Unreal Engine  
 - Herramientas: Blender, Git, Visual Studio, Postman, AWS, Next.js, Spring Boot  
-- Metodologías: Scrum, Agile  
+- Marcos de trabajo: Scrum, Agile  
 - Inglés: B1  
 
 ---
