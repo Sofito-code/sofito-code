@@ -21,7 +21,15 @@ Videojuego educativo móvil desarrollado en solitario en Unity, diseñado para q
  
 #### 🌾 [La Cosecha](#)
 Juego diseñado y programado pensando en la accesibilidad del adulto mayor de 60+ años. Tablero interactivo de parcelas simétricas para ejercitar memoria espacial y orientación, funcionando como herramienta de apoyo en pruebas médicas de Alzheimer.
+
+#### 🌊 [Deep Diving - Game Jam](#)
+Juego arcade de supervivencia (submarino) point & click en 3D low poly, desarrollado en equipo durante el Bootcamp Unity Developer de Generation Colombia. Mecánica de progresión por capas (Submarino → Cápsula → Buzo) esquivando peligros marinos.
+[Jugar](https://nairbio.itch.io/deepdiving)
  
+#### 🔫 [Fatal Mixture - Game Jam](#)
+Shooter en tercera persona 3D estilo mazmorra, con un sistema de elementos apilables: cada poder te hace más fuerte pero trae consecuencias. Estética Low Poly, disponible en plataforma Web. 
+[Jugar](https://sofia-vc.itch.io/fatal-mixture)
+
 #### 🦎 [AxiPet - Game Jam](#)
 Mascota virtual tipo Tamagotchi de un ajolote en Pixel Art, desarrollada para la Virtual Pet GameJam. Lógica interactiva de cuidados (alimentación, felicidad, edad) sobre una interfaz móvil colorida pensada para todo público desde los 5 años.
 [Jugar](https://sofia-vc.itch.io/mathyx)
@@ -31,14 +39,6 @@ Simulación interactiva con enfoque de UI limpio y funcional, diseñada para gui
  
 #### 💡 [Energy Saving](#)
 Puzzle de lógica que traduce un algoritmo matemático en una interfaz minimalista: matriz interactiva de bombillos donde cada clic altera las casillas vecinas, generando conciencia sobre el ahorro energético.
- 
-#### 🌊 [Deep Diving - Game Jam](#)
-Juego arcade de supervivencia (submarino) point & click en 3D low poly, desarrollado en equipo durante el Bootcamp Unity Developer de Generation Colombia. Mecánica de progresión por capas (Submarino → Cápsula → Buzo) esquivando peligros marinos.
-[Jugar](https://nairbio.itch.io/deepdiving)
- 
-#### 🔫 [Fatal Mixture - Game Jam](#)
-Shooter en tercera persona 3D estilo mazmorra, con un sistema de elementos apilables: cada poder te hace más fuerte pero trae consecuencias. Estética Low Poly, disponible en plataforma Web. 
-[Jugar](https://sofia-vc.itch.io/fatal-mixture)
 
 ---
 
@@ -57,6 +57,7 @@ Shooter en tercera persona 3D estilo mazmorra, con un sistema de elementos apila
 **Unity Junior Developer** - Generation Colombia
 **Ingeniería de Sistemas** – Universidad de Antioquia 
 Miembro del semillero de videojuegos. Desarrollo de juegos educativos.
+
 **Certificación en Unity** – Ubicua  
 **Certificación en Desarrollo de Videojuegos** – Academy by Polygon.us
 
