@@ -3,7 +3,7 @@
 🎮 *Desarrolladora de videojuegos en Unity*
 
 📍 Medellín, Colombia  
-sofiavanegascordoba@gmail.com | [LinkedIn](https://www.linkedin.com/in/sofia-vanegas-cordoba-unity-dev/) | [Itch.io](https://sofia-vc.itch.io/) | [CV](https://drive.google.com/uc?export=download&id=1TOa5aOQVx66mw3-JLYVp5803WjZqvxkA) 
+sofiavanegascordoba@gmail.com | [LinkedIn](https://www.linkedin.com/in/sofia-vanegas-cordoba-unity-dev/) | [Portafolio](https://sofito-code.github.io/Portafolio/) | [Itch.io](https://sofia-vc.itch.io/) | [CV](https://drive.google.com/uc?export=download&id=1TOa5aOQVx66mw3-JLYVp5803WjZqvxkA) 
 
 ---
 
